@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/JRC404/api.git"
   },
-  "keywords": ["node", "express"],
+  "keywords": [
+    "node",
+    "express"
+  ],
   "author": "Jacob Reilly-Cooper",
   "license": "ISC",
   "bugs": {
@@ -19,6 +22,7 @@
   },
   "homepage": "https://github.com/JRC404/api#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fetch": "^1.1.0"
   }
 }
