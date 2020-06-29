@@ -23,6 +23,7 @@
   "homepage": "https://github.com/JRC404/api#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "fetch": "^1.1.0"
+    "fetch": "^1.1.0",
+    "mssql": "^6.2.0"
   }
 }
